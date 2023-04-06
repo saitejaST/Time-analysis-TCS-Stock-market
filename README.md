@@ -6,21 +6,18 @@ The purpose of this analysis is to identify patterns in the TCS-stock-price data
 This project involves
 
 1.COLLECTING DATA=Collect Data: The first step is collecting dataset from kaggle and performing operations.
-
 It is important to collect data for a significant period of time, preferably several years, in order to identify trends and patterns.
 
 2.CLEAN DATA=Once dataset is imported then cleaning or preprocessing dataset if necessary
 
 3.PLOT DATA=The next step is to plot the data on a graph. This will allow you to visualize the price movements over time
-
 You can use a line graph to plot the closing prices over time or a candlestick chart to show the open, high, low, and close prices for each day.
 
 4.IDENTIFYING TRENDS AND PATTERNS=After plotting we have identified the trends and patterns
 
 5.TRAINING=After identifying patterns.it is found that keras library is suitable for the time analysis projects
-
 so we have trained the models with keras and performed operations
 
 6.ERRORS=mean squared error has been used in this project and identified any errors are present
 
-Finally by using these steps the project has beeen created
+Finally by following these steps the project has beeen created
