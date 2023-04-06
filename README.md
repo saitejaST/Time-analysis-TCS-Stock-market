@@ -20,4 +20,4 @@ so we have trained the models with keras and performed operations
 
 6.ERRORS=mean squared error has been used in this project and identified any errors are present
 
-Finally by following these steps the project has beeen created
+Finally by following these steps time analysis has beeen done on the TCS-Stock-price dataset
