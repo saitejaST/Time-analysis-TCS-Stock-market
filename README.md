@@ -2,7 +2,7 @@
 This project deals with the time analysis of stock market prices .This acts as a guide for analyzing stock market prices over a period of time
 The purpose of this analysis is to identify patterns in the TCS-stock-price dataset in order to make informed investment decisions
 This project involves
-1.COLLECTING DATA=Collect Data: The first step is collecting dataset from kaggle and performing operations
+1.COLLECTING DATA=Collect Data: The first step is collecting dataset from kaggle and performing operations.
 It is important to collect data for a significant period of time, preferably several years, in order to identify trends and patterns.
 2.CLEAN DATA=Once dataset is imported then cleaning or preprocessing dataset if necessary
 3.PLOT DATA=The next step is to plot the data on a graph. This will allow you to visualize the price movements over time
